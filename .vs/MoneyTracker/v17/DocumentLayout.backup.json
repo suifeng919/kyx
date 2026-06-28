@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|c:\\users\\25916\\desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\moneytracker\\moneytracker.winform\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|solutionrelative:moneytracker.winform\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|c:\\users\\25916\\desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\moneytracker\\moneytracker.winform\\forms\\addbillform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|solutionrelative:moneytracker.winform\\forms\\addbillform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|c:\\users\\25916\\desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\moneytracker\\moneytracker.winform\\forms\\addbillform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|solutionrelative:moneytracker.winform\\forms\\addbillform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|c:\\users\\25916\\desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\moneytracker\\moneytracker.winform\\controls\\billlistcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|solutionrelative:moneytracker.winform\\controls\\billlistcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|c:\\users\\25916\\desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\moneytracker\\moneytracker.winform\\controls\\budgetcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|solutionrelative:moneytracker.winform\\controls\\budgetcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|c:\\users\\25916\\desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\moneytracker\\moneytracker.winform\\controls\\statscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F36739F-11D3-4827-807A-49B36067FF5C}|MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj|solutionrelative:moneytracker.winform\\controls\\statscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "MoneyTracker.WinForm\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Forms\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MoneyTracker.WinForm\\Forms\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T03:40:38.357Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddBillForm.resx",
+              "DocumentMoniker": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Forms\\AddBillForm.resx",
+              "RelativeDocumentMoniker": "MoneyTracker.WinForm\\Forms\\AddBillForm.resx",
+              "ToolTip": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Forms\\AddBillForm.resx",
+              "RelativeToolTip": "MoneyTracker.WinForm\\Forms\\AddBillForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-28T03:40:29.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBillForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Forms\\AddBillForm.cs",
+              "RelativeDocumentMoniker": "MoneyTracker.WinForm\\Forms\\AddBillForm.cs",
+              "ToolTip": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Forms\\AddBillForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MoneyTracker.WinForm\\Forms\\AddBillForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T03:40:24.346Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatsControl.cs",
+              "DocumentMoniker": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Controls\\StatsControl.cs",
+              "RelativeDocumentMoniker": "MoneyTracker.WinForm\\Controls\\StatsControl.cs",
+              "ToolTip": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Controls\\StatsControl.cs",
+              "RelativeToolTip": "MoneyTracker.WinForm\\Controls\\StatsControl.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T03:38:17.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BudgetControl.cs",
+              "DocumentMoniker": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Controls\\BudgetControl.cs",
+              "RelativeDocumentMoniker": "MoneyTracker.WinForm\\Controls\\BudgetControl.cs",
+              "ToolTip": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Controls\\BudgetControl.cs",
+              "RelativeToolTip": "MoneyTracker.WinForm\\Controls\\BudgetControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T03:38:16.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillListControl.cs",
+              "DocumentMoniker": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Controls\\BillListControl.cs",
+              "RelativeDocumentMoniker": "MoneyTracker.WinForm\\Controls\\BillListControl.cs",
+              "ToolTip": "C:\\Users\\25916\\Desktop\\\u4EFB\u52A1\\win\u671F\u672B\u4F5C\u4E1A\\MoneyTracker\\MoneyTracker.WinForm\\Controls\\BillListControl.cs",
+              "RelativeToolTip": "MoneyTracker.WinForm\\Controls\\BillListControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T03:38:15.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

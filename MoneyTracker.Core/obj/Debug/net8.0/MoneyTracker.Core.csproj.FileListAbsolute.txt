@@ -1,0 +1,12 @@
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\bin\Debug\net8.0\MoneyTracker.Core.deps.json
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\bin\Debug\net8.0\MoneyTracker.Core.dll
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\bin\Debug\net8.0\MoneyTracker.Core.pdb
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\obj\Debug\net8.0\MoneyTracker.Core.csproj.AssemblyReference.cache
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\obj\Debug\net8.0\MoneyTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\obj\Debug\net8.0\MoneyTracker.Core.AssemblyInfoInputs.cache
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\obj\Debug\net8.0\MoneyTracker.Core.AssemblyInfo.cs
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\obj\Debug\net8.0\MoneyTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\obj\Debug\net8.0\MoneyTracker.Core.dll
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\obj\Debug\net8.0\refint\MoneyTracker.Core.dll
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\obj\Debug\net8.0\MoneyTracker.Core.pdb
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Core\obj\Debug\net8.0\ref\MoneyTracker.Core.dll

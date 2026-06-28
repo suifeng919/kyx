@@ -1,0 +1,239 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Core\\MoneyTracker.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Core\\MoneyTracker.Core.csproj",
+        "projectName": "MoneyTracker.Core",
+        "projectPath": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Core\\MoneyTracker.Core.csproj",
+        "packagesPath": "C:\\Users\\25916\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\25916\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Data\\MoneyTracker.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Data\\MoneyTracker.Data.csproj",
+        "projectName": "MoneyTracker.Data",
+        "projectPath": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Data\\MoneyTracker.Data.csproj",
+        "packagesPath": "C:\\Users\\25916\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\25916\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Core\\MoneyTracker.Core.csproj": {
+                "projectPath": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Core\\MoneyTracker.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj",
+        "projectName": "MoneyTracker.WinForm",
+        "projectPath": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.WinForm\\MoneyTracker.WinForm.csproj",
+        "packagesPath": "C:\\Users\\25916\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.WinForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\25916\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Core\\MoneyTracker.Core.csproj": {
+                "projectPath": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Core\\MoneyTracker.Core.csproj"
+              },
+              "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Data\\MoneyTracker.Data.csproj": {
+                "projectPath": "C:\\Users\\25916\\Desktop\\任务\\win期末作业\\MoneyTracker\\MoneyTracker.Data\\MoneyTracker.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            },
+            "System.Windows.Forms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.0.0-prerelease.20110.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

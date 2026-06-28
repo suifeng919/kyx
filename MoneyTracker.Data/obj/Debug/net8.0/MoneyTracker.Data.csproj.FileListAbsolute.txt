@@ -1,0 +1,17 @@
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\obj\Debug\net8.0\MoneyTracker.Data.csproj.AssemblyReference.cache
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\obj\Debug\net8.0\MoneyTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\obj\Debug\net8.0\MoneyTracker.Data.AssemblyInfoInputs.cache
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\obj\Debug\net8.0\MoneyTracker.Data.AssemblyInfo.cs
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\obj\Debug\net8.0\MoneyTracker.Data.csproj.CoreCompileInputs.cache
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\bin\Debug\net8.0\MoneyTracker.Data.deps.json
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\bin\Debug\net8.0\MoneyTracker.Data.runtimeconfig.json
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\bin\Debug\net8.0\MoneyTracker.Data.dll
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\bin\Debug\net8.0\MoneyTracker.Data.pdb
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\bin\Debug\net8.0\MoneyTracker.Core.dll
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\bin\Debug\net8.0\MoneyTracker.Core.pdb
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\obj\Debug\net8.0\MoneyTra.F7D457EC.Up2Date
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\obj\Debug\net8.0\MoneyTracker.Data.dll
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\obj\Debug\net8.0\refint\MoneyTracker.Data.dll
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\obj\Debug\net8.0\MoneyTracker.Data.pdb
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\obj\Debug\net8.0\MoneyTracker.Data.genruntimeconfig.cache
+C:\Users\25916\Desktop\任务\win期末作业\MoneyTracker\MoneyTracker.Data\obj\Debug\net8.0\ref\MoneyTracker.Data.dll
